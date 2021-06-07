@@ -1,0 +1,475 @@
+Max Mustermann
+Deck
+1 Shaile, Dean of Radiance (STX) 158
+1 Honor Troll (STX) 134
+1 Detention Vortex (STX) 13
+1 Mage Hunter (STX) 76
+1 Resculpt (STX) 51
+1 Springmane Cervin (STX) 144
+1 Elemental Masterpiece (STX) 182
+1 Study Break (STX) 34
+1 Excavated Wall (STX) 255
+1 Exhilarating Elocution (STX) 185
+1 Pillardrop Rescuer (STX) 23
+1 Enthusiastic Study (STX) 99
+1 Professor's Warning (STX) 84
+1 Spirit Summoning (STX) 236
+1 Snakeskin Veil (STA) 57
+1 Battle of Frost and Fire (KHM) 204
+1 Rune of Sustenance (KHM) 25
+1 Vengeful Reaper (KHM) 116
+1 Divine Gambit (KHM) 8
+1 Arachnoform (KHM) 159
+1 Shackles of Treachery (KHM) 150
+1 Priest of the Haunted Edge (KHM) 104
+1 Scorn Effigy (KHM) 246
+1 Karfell Harbinger (KHM) 65
+1 Grizzled Outrider (KHM) 173
+1 Cinderheart Giant (KHM) 126
+1 Grim Draugr (KHM) 96
+1 Warhorn Blast (KHM) 38
+1 Demon Bolt (KHM) 129
+1 Sulfurous Mire (KHM) 270
+1 Thieves' Guild Enforcer (M21) 125
+1 Lorescale Coatl (M21) 221
+1 Dire Fleet Warmonger (M21) 217
+1 Basri's Solidarity (M21) 10
+1 Roaming Ghostlight (M21) 65
+1 Village Rites (M21) 126
+1 Rookie Mistake (M21) 66
+1 Feat of Resistance (M21) 19
+1 Sanguine Indulgence (M21) 121
+1 Bone Pit Brute (M21) 132
+1 Thrill of Possibility (M21) 165
+1 Gnarled Sage (M21) 187
+1 Rambunctious Mutt (M21) 30
+1 Colossal Dreadmaw (M21) 176
+1 Plains (M21) 260
+1 Mythos of Brokkos (IKO) 168
+1 Skull Prophet (IKO) 206
+1 Bastion of Remembrance (IKO) 73
+1 Back for More (IKO) 177
+1 Gloom Pangolin (IKO) 89
+1 Spontaneous Flight (IKO) 33
+1 Thwart the Enemy (IKO) 173
+1 Survivors' Bond (IKO) 172
+1 Phase Dolphin (IKO) 62
+1 Whisper Squad (IKO) 105
+1 Fire Prophecy (IKO) 116
+1 Blisterspit Gremlin (IKO) 108
+1 Glimmerbell (IKO) 53
+1 Gust of Wind (IKO) 54
+1 Bloodfell Caves (IKO) 243
+1 Yorvo, Lord of Garenbrig (ELD) 185
+1 Cauldron's Gift (ELD) 83
+1 Enchanted Carriage (ELD) 218
+1 Wintermoor Commander (ELD) 205
+1 Tall as a Beanstalk (ELD) 178
+1 Barrow Witches (ELD) 77
+1 Shining Armor (ELD) 29
+1 Tome Raider (ELD) 68
+1 Seven Dwarves (ELD) 141
+1 Run Away Together (ELD) 62
+1 Giant's Skewer (ELD) 91
+1 Fierce Witchstalker (ELD) 154
+1 Curious Pair (ELD) 150
+1 Witch's Cottage (ELD) 249
+1 Plains (ELD) 251
+1 Evra, Halcyon Witness (DAR) 16
+1 Howling Golem (DAR) 218
+1 Memorial to Folly (DAR) 242
+1 Skizzik (DAR) 145
+1 Arbor Armament (DAR) 155
+1 Academy Journeymage (DAR) 41
+1 Unwind (DAR) 72
+1 Cabal Paladin (DAR) 79
+1 Divination (DAR) 52
+1 Knight of New Benalia (DAR) 24
+1 Deathbloom Thallid (DAR) 84
+1 Fiery Intervention (DAR) 118
+1 Invoke the Divine (DAR) 22
+1 Mammoth Spider (DAR) 171
+1 Mountain (DAR) 265
+
+=============================================
+=============================================
+Erika Musterfrau
+Deck
+1 Plargg, Dean of Chaos (STX) 155
+1 Master Symmetrist (STX) 138
+1 Expressive Iteration (STX) 186
+1 Fortifying Draught (STX) 132
+1 Serpentine Curve (STX) 52
+1 Defend the Campus (STX) 12
+1 Scurrid Colony (STX) 142
+1 Witherbloom Campus (STX) 275
+1 Burrog Befuddler (STX) 38
+1 Pigment Storm (STX) 111
+1 Promising Duskmage (STX) 85
+1 Square Up (STX) 238
+1 Pilgrim of the Ages (STX) 22
+1 Pest Summoning (STX) 211
+1 Revitalize (STA) 9
+1 Tibalt's Trickery (KHM) 153
+1 Dwarven Hammer (KHM) 133
+1 Immersturm Skullcairn (KHM) 263
+1 Blizzard Brawl (KHM) 162
+1 Deathknell Berserker (KHM) 83
+1 Mistwalker (KHM) 68
+1 Behold the Multiverse (KHM) 46
+1 Invoke the Divine (KHM) 16
+1 Guardian Gladewalker (KHM) 174
+1 Frostpeak Yeti (KHM) 57
+1 Breakneck Berserker (KHM) 124
+1 Glittering Frost (KHM) 171
+1 Raiders' Karve (KHM) 242
+1 Run Amok (KHM) 147
+1 Snow-Covered Mountain (KHM) 283
+1 Basri's Lieutenant (M21) 9
+1 Basri's Solidarity (M21) 10
+1 Waker of Waves (M21) 84
+1 Heartfire Immolator (M21) 150
+1 Caged Zombie (M21) 91
+1 Drowsing Tyrannodon (M21) 178
+1 Library Larcenist (M21) 55
+1 Mind Rot (M21) 115
+1 Onakke Ogre (M21) 155
+1 Rambunctious Mutt (M21) 30
+1 Blood Glutton (M21) 90
+1 Staunch Shieldmate (M21) 39
+1 Revitalize (M21) 31
+1 Sabertooth Mauler (M21) 202
+1 Blossoming Sands (M21) 244
+1 Obosh, the Preypiercer (IKO) 228
+1 Migration Path (IKO) 164
+1 Titanoth Rex (IKO) 174
+1 Will of the All-Hunter (IKO) 38
+1 Blood Curdle (IKO) 75
+1 Startling Development (IKO) 68
+1 Imposing Vantasaur (IKO) 17
+1 Convolute (IKO) 45
+1 Adventurous Impulse (IKO) 142
+1 Crystacean (IKO) 46
+1 Capture Sphere (IKO) 44
+1 Lava Serpent (IKO) 124
+1 Bristling Boar (IKO) 146
+1 Snare Tactician (IKO) 30
+1 Forest (IKO) 272
+1 Wicked Wolf (ELD) 181
+1 Spinning Wheel (ELD) 234
+1 Wandermare (ELD) 204
+1 Fireborn Knight (ELD) 210
+1 Scorching Dragonfire (ELD) 139
+1 Jousting Dummy (ELD) 224
+1 Henge Walker (ELD) 221
+1 Curious Pair (ELD) 150
+1 Locthwain Paladin (ELD) 93
+1 Flutterfox (ELD) 12
+1 Trapped in the Tower (ELD) 33
+1 Searing Barrage (ELD) 140
+1 Dwarven Mine (ELD) 243
+1 Mistford River Turtle (ELD) 56
+1 Swamp (ELD) 258
+1 Daring Archaeologist (DAR) 13
+1 Kwende, Pride of Femeref (DAR) 25
+1 Board the Weatherlight (DAR) 8
+1 Fungal Plots (DAR) 160
+1 Krosan Druid (DAR) 167
+1 Frenzied Rage (DAR) 124
+1 Gideon's Reproach (DAR) 19
+1 Broken Bond (DAR) 157
+1 Artificer's Assistant (DAR) 44
+1 Gift of Growth (DAR) 163
+1 D'Avenant Trapper (DAR) 11
+1 Jousting Lance (DAR) 221
+1 Mesa Unicorn (DAR) 27
+1 Thallid Omnivore (DAR) 106
+1 Swamp (DAR) 259
+
+=============================================
+=============================================
+Random Player
+Deck
+1 Necroblossom Snarl (STX) 269
+1 Umbral Juke (STX) 89
+1 Flunk (STX) 71
+1 Test of Talents (STX) 59
+1 Leyline Invocation (STX) 136
+1 Novice Dissector (STX) 79
+1 Square Up (STX) 238
+1 Campus Guide (STX) 252
+1 Beaming Defiance (STX) 9
+1 Curate (STX) 40
+1 Cram Session (STX) 170
+1 Fuming Effigy (STX) 103
+1 Eureka Moment (STX) 184
+1 Spirit Summoning (STX) 236
+1 Infuriate (STA) 41
+1 Blood on the Snow (KHM) 79
+1 Poison the Cup (KHM) 103
+1 Rune of Sustenance (KHM) 25
+1 Battershield Warrior (KHM) 2
+1 Masked Vandal (KHM) 184
+1 Littjara Kinseekers (KHM) 66
+1 Beskir Shieldmate (KHM) 4
+1 Jarl of the Forsaken (KHM) 100
+1 Raiders' Karve (KHM) 242
+1 Craven Hulk (KHM) 127
+1 Shimmerdrift Vale (KHM) 267
+1 Goldvein Pick (KHM) 239
+1 Valor of the Worthy (KHM) 37
+1 Ravenous Lindwurm (KHM) 187
+1 Snow-Covered Forest (KHM) 284
+1 Sporeweb Weaver (M21) 208
+1 Quirion Dryad (M21) 198
+1 Volcanic Geyser (M21) 171
+1 Angelic Ascension (M21) 3
+1 Silent Dart (M21) 237
+1 Forgotten Sentinel (M21) 231
+1 Turn to Slag (M21) 168
+1 Gale Swooper (M21) 20
+1 Revitalize (M21) 31
+1 Deathbloom Thallid (M21) 94
+1 Llanowar Visionary (M21) 193
+1 Frantic Inventory (M21) 50
+1 Onakke Ogre (M21) 155
+1 Gloom Sower (M21) 100
+1 Bloodfell Caves (M21) 243
+1 Narset of the Ancient Way (IKO) 195
+1 Easy Prey (IKO) 87
+1 Primal Empathy (IKO) 200
+1 Swallow Whole (IKO) 35
+1 Startling Development (IKO) 68
+1 Divine Arrow (IKO) 9
+1 Unlikely Aid (IKO) 103
+1 Thieving Otter (IKO) 69
+1 Mysterious Egg (IKO) 3
+1 Flycatcher Giraffid (IKO) 153
+1 Forbidden Friendship (IKO) 119
+1 Perimeter Sergeant (IKO) 27
+1 Rumbling Rockslide (IKO) 134
+1 Blitz Leech (IKO) 74
+1 Wind-Scarred Crag (IKO) 258
+1 Stormfist Crusader (ELD) 203
+1 Embereth Shieldbreaker (ELD) 122
+1 Skullknocker Ogre (ELD) 142
+1 Lucky Clover (ELD) 226
+1 Insatiable Appetite (ELD) 162
+1 Charmed Sleep (ELD) 40
+1 Reave Soul (ELD) 103
+1 Bloodhaze Wolverine (ELD) 113
+1 Ardenvale Paladin (ELD) 4
+1 Mystic Sanctuary (ELD) 247
+1 Rosethorn Acolyte (ELD) 174
+1 Unexplained Vision (ELD) 70
+1 Tempting Witch (ELD) 108
+1 Seven Dwarves (ELD) 141
+1 Island (ELD) 256
+1 Zahid, Djinn of the Lamp (DAR) 76
+1 Gaea's Blessing (DAR) 161
+1 Warcry Phoenix (DAR) 150
+1 Wizard's Lightning (DAR) 152
+1 Homarid Explorer (DAR) 53
+1 Deathbloom Thallid (DAR) 84
+1 Aesthir Glider (DAR) 209
+1 Grow from the Ashes (DAR) 164
+1 Aven Sentry (DAR) 3
+1 Dub (DAR) 15
+1 Radiating Lightning (DAR) 138
+1 Shivan Fire (DAR) 142
+1 Sergeant-at-Arms (DAR) 32
+1 Cloudreader Sphinx (DAR) 47
+1 Island (DAR) 256
+
+=============================================
+=============================================
+Gandalf Control
+Deck
+1 Codie, Vociferous Codex (STX) 253
+1 Tenured Inkcaster (STX) 88
+1 Flunk (STX) 71
+1 Shadewing Laureate (STX) 229
+1 Bury in Books (STX) 39
+1 Field Trip (STX) 131
+1 Eureka Moment (STX) 184
+1 Pillardrop Warden (STX) 112
+1 Lorehold Pledgemage (STX) 201
+1 Twinscroll Shaman (STX) 118
+1 Prismari Campus (STX) 270
+1 Leech Fanatic (STX) 75
+1 Defend the Campus (STX) 12
+1 Pest Summoning (STX) 211
+1 Eliminate (STA) 30
+1 In Search of Greatness (KHM) 177
+1 Colossal Plow (KHM) 236
+1 Replicating Ring (KHM) 244
+1 Hailstorm Valkyrie (KHM) 97
+1 Seize the Spoils (KHM) 149
+1 Karfell Harbinger (KHM) 65
+1 Valor of the Worthy (KHM) 37
+1 Axgard Braggart (KHM) 1
+1 Cinderheart Giant (KHM) 126
+1 Brinebarrow Intruder (KHM) 49
+1 Goldmaw Champion (KHM) 14
+1 Raise the Draugr (KHM) 105
+1 Guardian Gladewalker (KHM) 174
+1 Bind the Monster (KHM) 48
+1 Ice Tunnel (KHM) 262
+1 Hooded Blightfang (M21) 104
+1 Sanctum of Fruitful Harvest (M21) 203
+1 Fungal Rebirth (M21) 182
+1 Sanctum of Stone Fangs (M21) 120
+1 Masked Blackguard (M21) 113
+1 Spined Megalodon (M21) 72
+1 Onakke Ogre (M21) 155
+1 Lofty Denial (M21) 56
+1 Ornery Dilophosaur (M21) 194
+1 Warded Battlements (M21) 44
+1 Wall of Runes (M21) 85
+1 Life Goes On (M21) 192
+1 Feat of Resistance (M21) 19
+1 Furor of the Bitten (M21) 145
+1 Rugged Highlands (M21) 249
+1 Kogla, the Titan Ape (IKO) 162
+1 Hornbash Mentor (IKO) 159
+1 Auspicious Starrix (IKO) 144
+1 Migration Path (IKO) 164
+1 Honey Mammoth (IKO) 158
+1 Gust of Wind (IKO) 54
+1 Blitz Leech (IKO) 74
+1 Daysquad Marshal (IKO) 8
+1 Thieving Otter (IKO) 69
+1 Lurking Deadeye (IKO) 94
+1 Lava Serpent (IKO) 124
+1 Gloom Pangolin (IKO) 89
+1 Hampering Snare (IKO) 55
+1 Ram Through (IKO) 170
+1 Tranquil Cove (IKO) 257
+1 Torbran, Thane of Red Fell (ELD) 147
+1 Righteousness (ELD) 27
+1 Oakhame Ranger (ELD) 212
+1 Elite Headhunter (ELD) 209
+1 Beloved Princess (ELD) 7
+1 Corridor Monitor (ELD) 41
+1 Dwarven Mine (ELD) 243
+1 Sporecap Spider (ELD) 176
+1 Blow Your House Down (ELD) 114
+1 Reave Soul (ELD) 103
+1 Outflank (ELD) 23
+1 Malevolent Noble (ELD) 95
+1 Bake into a Pie (ELD) 76
+1 Charmed Sleep (ELD) 40
+1 Swamp (ELD) 259
+1 Urza's Ruinous Blast (DAR) 39
+1 Hallar, the Firefletcher (DAR) 196
+1 Skizzik (DAR) 145
+1 Goblin Warchief (DAR) 130
+1 Bloodstone Goblin (DAR) 115
+1 Rat Colony (DAR) 101
+1 Saproling Migration (DAR) 178
+1 Dub (DAR) 15
+1 Ghitu Lavarunner (DAR) 127
+1 Syncopate (DAR) 67
+1 Pardic Wanderer (DAR) 226
+1 Soul Salvage (DAR) 104
+1 Deathbloom Thallid (DAR) 84
+1 Sergeant-at-Arms (DAR) 32
+1 Plains (DAR) 250
+
+=============================================
+=============================================
+Monor Inurface
+Deck
+1 Witherbloom Command (STX) 248
+1 Reduce to Memory (STX) 25
+1 Mercurial Transformation (STX) 47
+1 Lorehold Apprentice (STX) 198
+1 Leech Fanatic (STX) 75
+1 Square Up (STX) 238
+1 Scurrid Colony (STX) 142
+1 First Day of Class (STX) 102
+1 Relic Sloth (STX) 223
+1 Campus Guide (STX) 252
+1 Arcane Subtraction (STX) 36
+1 Expel (STX) 18
+1 Cogwork Archivist (STX) 254
+1 Spirit Summoning (STX) 236
+1 Claim the Firstborn (STA) 37
+1 Blood on the Snow (KHM) 79
+1 Dwarven Hammer (KHM) 133
+1 Dual Strike (KHM) 132
+1 Weathered Runestone (KHM) 247
+1 Pilfering Hawk (KHM) 71
+1 Mists of Littjara (KHM) 67
+1 Demonic Gifts (KHM) 84
+1 Duskwielder (KHM) 91
+1 Ravenous Lindwurm (KHM) 187
+1 Battlefield Raptor (KHM) 3
+1 Karfell Harbinger (KHM) 65
+1 Dread Rider (KHM) 89
+1 Glittering Frost (KHM) 171
+1 Hagi Mob (KHM) 140
+1 Rimewood Falls (KHM) 266
+1 Double Vision (M21) 142
+1 Cultivate (M21) 177
+1 Light of Promise (M21) 25
+1 Silversmote Ghoul (M21) 122
+1 Igneous Cur (M21) 153
+1 Mind Rot (M21) 115
+1 Grasp of Darkness (M21) 102
+1 Wishcoin Crab (M21) 86
+1 Revitalize (M21) 31
+1 Life Goes On (M21) 192
+1 Run Afoul (M21) 201
+1 Sanguine Indulgence (M21) 121
+1 Makeshift Battalion (M21) 26
+1 Swift Response (M21) 40
+1 Dismal Backwater (M21) 245
+1 Emergent Ultimatum (IKO) 185
+1 Porcuparrot (IKO) 128
+1 Momentum Rumbler (IKO) 126
+1 Blitz of the Thunder-Raptor (IKO) 109
+1 Spontaneous Flight (IKO) 33
+1 Corpse Churn (IKO) 81
+1 Perimeter Sergeant (IKO) 27
+1 Wingfold Pteron (IKO) 71
+1 Migratory Greathorn (IKO) 165
+1 Cathartic Reunion (IKO) 110
+1 Drannith Healer (IKO) 10
+1 Lurking Deadeye (IKO) 94
+1 Wilt (IKO) 176
+1 Sleeper Dart (IKO) 240
+1 Island (IKO) 264
+1 The Circle of Loyalty (ELD) 9
+1 Drown in the Loch (ELD) 188
+1 Arcanist's Owl (ELD) 206
+1 Syr Faren, the Hengehammer (ELD) 177
+1 Moonlit Scavengers (ELD) 57
+1 Bake into a Pie (ELD) 76
+1 Rosethorn Halberd (ELD) 175
+1 Brimstone Trebuchet (ELD) 116
+1 Vantress Paladin (ELD) 72
+1 Insatiable Appetite (ELD) 162
+1 Ardenvale Paladin (ELD) 4
+1 Crystal Slipper (ELD) 119
+1 Witch's Cottage (ELD) 249
+1 Fell the Pheasant (ELD) 153
+1 Plains (ELD) 253
+1 Evra, Halcyon Witness (DAR) 16
+1 Goblin Barrage (DAR) 128
+1 Wild Onslaught (DAR) 188
+1 Untamed Kavu (DAR) 186
+1 Yavimaya Sapherd (DAR) 189
+1 Divination (DAR) 52
+1 Corrosive Ooze (DAR) 158
+1 Drudge Sentinel (DAR) 89
+1 Ancient Animus (DAR) 154
+1 Invoke the Divine (DAR) 22
+1 Bloodstone Goblin (DAR) 115
+1 Shivan Fire (DAR) 142
+1 Gift of Growth (DAR) 163
+1 Aesthir Glider (DAR) 209
+1 Forest (DAR) 269
+
+=============================================
+=============================================
